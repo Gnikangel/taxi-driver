@@ -1,4 +1,4 @@
-const { getTaxes } = require('../../getTax');
+const { getTaxes } = require('../../lib');
 
 describe('Mexico', () => {
   describe('IVA', () => {
